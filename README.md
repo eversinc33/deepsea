@@ -5,7 +5,6 @@
  !!:  !!! !!:      !!:      !!:          !:! !!:      !!:  !!!
  :: :  :  : :: ::: : :: :::  :       ::.: :  : :: :::  :   : :
 
-[-] Add session id cookie via --sid flag
 usage: deepsea.py [-h] [--sid SID] [--type TYPE] [--target TARGET] [--list LIST] [--proxy PROXY]
 
 optional arguments:
