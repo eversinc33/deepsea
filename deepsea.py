@@ -12,7 +12,7 @@ from requests import ConnectionError
 types = ["email", "username", "name", "ip", "password", "uid"]
 
 def find_leaks(search, search_type, phpsessid):
-    url = "http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/deepsearch"
+    url = "http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/deepsearch"
 
     request_data = {'search': search, 'dropdownn': search_type, 'tsearchv': 'match'}
 
